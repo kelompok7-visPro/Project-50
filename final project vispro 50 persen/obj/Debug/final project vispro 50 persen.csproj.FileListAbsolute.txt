@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\final project vispro 50 persen\bin\Debug\final project vispro 50 persen.exe.config
+C:\Users\HP\source\repos\final project vispro 50 persen\bin\Debug\final project vispro 50 persen.exe
+C:\Users\HP\source\repos\final project vispro 50 persen\bin\Debug\final project vispro 50 persen.pdb
+C:\Users\HP\source\repos\final project vispro 50 persen\obj\Debug\final project vispro 50 persen.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\final project vispro 50 persen\obj\Debug\final_project_vispro_50_persen.Form1.resources
+C:\Users\HP\source\repos\final project vispro 50 persen\obj\Debug\final_project_vispro_50_persen.Properties.Resources.resources
+C:\Users\HP\source\repos\final project vispro 50 persen\obj\Debug\final project vispro 50 persen.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\final project vispro 50 persen\obj\Debug\final project vispro 50 persen.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\final project vispro 50 persen\obj\Debug\final project vispro 50 persen.exe
+C:\Users\HP\source\repos\final project vispro 50 persen\obj\Debug\final project vispro 50 persen.pdb
